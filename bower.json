@@ -1,6 +1,6 @@
 {
-  "name": "elm-psc-test",
-  "version": "1.0.0",
+  "name": "purescript-apparch",
+  "version": "0.1.0",
   "moduleType": [
     "node"
   ],
