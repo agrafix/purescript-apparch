@@ -8,8 +8,9 @@ For an example project check [the example project][example].
 
 ## Documentation
 
-On [pursuit][http://pursuit.purescript.org/packages/purescript-apparch].
+On [pursuit][docs].
 
+[docs]: http://pursuit.purescript.org/packages/purescript-apparch
 [example]: https://github.com/agrafix/apparch-example
 [react]: https://facebook.github.io
 [start-app]: https://github.com/evancz/start-app
