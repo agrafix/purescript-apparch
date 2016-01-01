@@ -13,7 +13,10 @@
   "dependencies": {
     "purescript-signal": "~4.2.0",
     "purescript-react": "~0.5.0",
-    "purescript-dom": "~0.2.13",
-    "react": "~0.14.3"
+    "purescript-dom": "~0.2.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/agrafix/purescript-apparch"
   }
 }
