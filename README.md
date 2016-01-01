@@ -6,7 +6,7 @@ AppArch is a lightweight library heavily inspired by [the Elm Architecture][elm-
 
 For an example project check [the example project][example].
 
-[example]: https://github.com/agrafix/purescript-apparch
+[example]: https://github.com/agrafix/apparch-example
 [react]: https://facebook.github.io
 [start-app]: https://github.com/evancz/start-app
 [elm-arch]: https://github.com/evancz/elm-architecture-tutorial/
