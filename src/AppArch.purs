@@ -23,6 +23,7 @@ import Signal.Channel
 import qualified Signal as S
 
 import React
+import ReactDOM (render)
 
 -- |Properties of a view
 type CompProps m a =
